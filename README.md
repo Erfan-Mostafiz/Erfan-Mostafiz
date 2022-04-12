@@ -6,7 +6,7 @@
       Gmail: erfan.mostafiz2@gmail.com \
       Facebook: https://www.facebook.com/erfan.mostafiz/
       
- I love Gaming, Watching Movies & series, and Anime. 
+ I love Gaming, Watching Movies, series, and Anime. 
 
 <!---
 Erfan-Mostafiz/Erfan-Mostafiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
