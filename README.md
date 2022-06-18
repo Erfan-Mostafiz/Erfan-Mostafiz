@@ -6,7 +6,7 @@
       Gmail: erfan.mostafiz2@gmail.com \
       LinkedIN: https://www.linkedin.com/in/erfan-mostafiz/
           
- I love Travelling, Gaming, Movies, Anime and memes😂 
+ In my free time I love Travelling, Gaming, watching Movies and Anime
 
 <!---
 Erfan-Mostafiz/Erfan-Mostafiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
