@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Erfan-Mostafiz
-- 👀 I’m highly interested in Programming, Coding and everything related to tech
-- 🌱 I’m currently learning Full MERN Stack Web Development, Machine Learning and Deep Learning Technologies
-- 💞️ I’m looking to collaborate on Front End Web Dev & Machine Learning Projects
+- 🌱 I’m proficient in Full Stack Web Development, Machine Learning, Deep Learning and Computer Vision Technologies.
+- 👀 I’m highly interested in Programming, Coding and everything related to tech.
+- 💞️ I’m looking forward to collaborate on Software Engineering, Web Dev, ML and Deep Learning Technologies
 - 📫 How to reach me: \
       Gmail: erfan.mostafiz2@gmail.com \
       LinkedIN: https://www.linkedin.com/in/erfan-mostafiz/
