@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erfan-Mostafiz
-- 🌱 I’m proficient in Full Stack Web Development, Machine Learning, Deep Learning and Computer Vision Technologies.
+- 🌱 I’m proficient in Software Engineering, Full Stack Web Development, Machine Learning, Deep Learning and Computer Vision Technologies.
 - 👀 I’m highly interested in Programming, Coding and everything related to tech.
 - 💞️ I’m looking forward to collaborate on Software Engineering, Web Dev, ML and Deep Learning Technologies
 - 📫 How to reach me: \
